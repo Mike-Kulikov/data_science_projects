@@ -79,7 +79,8 @@ As a result of the project, a number of tasks were completed:
 
 ## Outcomes
 
-All results are displayed in the main [file](https://github.com/Mike-Kulikov/sf_data_science/blob/main/Hotel%20Ratings%20Prediction%20Project_3/Mike%20Kulikov%20-%20SF-Project-3%20-%20Hotel%20Ratings.ipynb).
+All results are displayed in the main [file](https://github.com/Mike-Kulikov/sf_data_science/blob/main/Project%203.%20Hotel%20Ratings%20Prediction/Mike%20Kulikov%20-%20SF-Project-3%20-%20Hotel%20Ratings.ipynb).
+
 Also, they were submitted to the Kaggle competition [here](https://www.kaggle.com/code/mikekulikov/mike-kulikov-sf-project-3-hotel-ratings)
 
 -  MAE: 0.8617125166427526

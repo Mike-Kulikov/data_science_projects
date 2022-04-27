@@ -63,4 +63,4 @@ As a result of the project, a number of tasks were completed:
 
 ## Outcomes
 
-All results are displayed in the main [file](https://github.com/Mike-Kulikov/sf_data_science/blob/main/project_1/Mike_Kulikov_Project_1.ipynb).
+All results are displayed in the main [file](https://github.com/Mike-Kulikov/sf_data_science/blob/main/Project%202.%20HeadHunter%20Salary%20Prediction/HeadHunter_Project_1(Mike_Kulikov).ipynb).
