@@ -2,17 +2,17 @@
 
 ## Table of contents 
 
-[1. Project Description](https://github.com/Mike-Kulikov/sf_data_science/blob/main/project_1/README.md)
+[1. Project Description](https://github.com/Mike-Kulikov/sf_data_science/tree/main/HeadHunter%20Project_1#project-description)
 
-[2. What case do we solve?](https://github.com/Mike-Kulikov/sf_data_science/blob/main/project_1/README.md#What-case-do-we-solve?)
+[2. What case do we solve?](https://github.com/Mike-Kulikov/sf_data_science/tree/main/HeadHunter%20Project_1#what-case-do-we-solve)
 
-[3. Data overview](https://github.com/Mike-Kulikov/sf_data_science/blob/main/project_1/README.md#Data-overview)
+[3. Data overview](https://github.com/Mike-Kulikov/sf_data_science/tree/main/HeadHunter%20Project_1#data-overview)
 
-[4. Project stages](https://github.com/Mike-Kulikov/sf_data_science/blob/main/project_1/README.md#Project-stages)
+[4. Project stages](https://github.com/Mike-Kulikov/sf_data_science/tree/main/HeadHunter%20Project_1#project-stages)
 
-[5. Results](https://github.com/Mike-Kulikov/sf_data_science/blob/main/project_1/README.md#Results)
+[5. Results](https://github.com/Mike-Kulikov/sf_data_science/tree/main/HeadHunter%20Project_1#results)
 
-[6. Outcomes](https://github.com/Mike-Kulikov/sf_data_science/blob/main/project_1/README.md#Outcomes)
+[6. Outcomes](https://github.com/Mike-Kulikov/sf_data_science/tree/main/HeadHunter%20Project_1#outcomes)
 
 
 ## Project Description
