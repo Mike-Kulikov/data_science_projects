@@ -1,11 +1,13 @@
-# Me data science project
+# My data science projects
 
 From the Skill Factory Data Science Course
 
-## Проекты
+## The Projects
 
-* [Проект 0. Игра "Угадай число"](https://github.com/Mike-Kulikov/sf_data_science/tree/main/project_0)
-* [Проект 1.](___)
-* [Проект 2.](___)
+* [Project 1. Guess the number. The game](https://github.com/Mike-Kulikov/sf_data_science/tree/main/project_0)
+* [Project 2. HeadHunter Salary Prediction](https://github.com/Mike-Kulikov/sf_data_science/tree/main/HeadHunter%20Project_1)
+* [Project 3. Hotel Ratings Prediction](https://github.com/Mike-Kulikov/sf_data_science/tree/main/Hotel%20Ratings%20Prediction%20Project_3)
 
-## Ссылки на резюме
+## CV links
+
+[Kaggle](https://www.kaggle.com/mikekulikov)

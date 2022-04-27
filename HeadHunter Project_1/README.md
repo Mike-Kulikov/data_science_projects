@@ -1,10 +1,10 @@
-# Анализ вакансий из HeadHunter  ##
+# HeadHunter Job-Search Website Analysis #
 
 ## Table of contents 
 
 [1. Project Description](https://github.com/Mike-Kulikov/sf_data_science/blob/main/project_1/README.md)
 
-[2. What case are we solving?](https://github.com/Mike-Kulikov/sf_data_science/blob/main/project_1/README.md#What-case-are-we-solving)
+[2. What case do we solve?](https://github.com/Mike-Kulikov/sf_data_science/blob/main/project_1/README.md#What-case-do-we-solve?)
 
 [3. Data overview](https://github.com/Mike-Kulikov/sf_data_science/blob/main/project_1/README.md#Data-overview)
 
@@ -17,37 +17,50 @@
 
 ## Project Description
 
-Анализ вакансий из HeadHunter
+HeadHunter Job-Search Website Analysis
 
-Данный проект является учебным заданием в рамках изучения Блока "Знакомство с данными. Python для анализа данных" Специализации Data Science
+This project is an educational assignment for the Introduction into Data Science Course by [Skill Factory](https://skillfactory.ru/)
 
-## What case are we solving?
+## What case do we solve?
 
-омпания HeadHunter хочет построить модель, которая бы автоматически определяла примерный уровень заработной платы, подходящей пользователю, исходя из информации, которую он указал о себе.
+The company HeadHunter wants to build a model that automatically determines the approximate salary level that is suitable for the user based on the user's information.
 
-Задача данного проекта состоит в том, чтобы преобразовать, исследовать и очистить данные прежде чем построить модель.
-
+The goal of this project is to transform, explore and clean the data before building the model.
 
 ## Data overview
 
-Файл с исходными данными можно скачать [здесь](https://drive.google.com/file/d/1Kb78mAWYKcYlellTGhIjPI-bCcKbGuTn/view?usp=sharing).
+The data can be dowloaded from [here](https://drive.google.com/file/d/1Kb78mAWYKcYlellTGhIjPI-bCcKbGuTn/view?usp=sharing).
 
-Датасет представляет из себя таблицу из 44,000+ запией и 12 столбцов:
-Пол, возраст; ЗП; Ищет работу на должность; Город, переезд, командировки; Занятость; График; Опыт работы; Последнее/нынешнее место работы; Последняя/нынешняя должность; Образование и ВУЗ; Обновление резюме; Авт
+The dataset is a table with 44,000+ rows and 12 columns (in Russian):
+- Sex/Gender
+- Salary
+- Desirable position
+- City, relocation, business trips
+- Full-time/Part-time
+- Roster
+- Experience
+- Last/Curent place of work
+- Last/Curent position
+- Education
+- CV Update
+- Car
 
 ## Project stages
 
-Проект состоит из четырёх частей:
+The project consists of four parts:
 
-1) базовый анализ структуры данных
-2) преобразование данных
-3) разведывательный анализ
-4) очистка данных
+- Basic Data Structure Analysis
+- Feature Engineering
+- Exploratory Analysis
+- Data Cleaning
 
 ## Results
 
-В резульате проекта выполнен ряд заданий: построены сводные таблицы, созданы графики и отчищены данные
+As a result of the project, a number of tasks were completed:
+- pivot tables were built,
+- graphs were created,
+- the data was cleaned up
 
 ## Outcomes
 
-Все итоги отображены в основном [файле](https://github.com/Mike-Kulikov/sf_data_science/blob/main/project_1/Mike_Kulikov_Project_1.ipynb).
+All results are displayed in the main [file](https://github.com/Mike-Kulikov/sf_data_science/blob/main/project_1/Mike_Kulikov_Project_1.ipynb).
