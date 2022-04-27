@@ -2,17 +2,17 @@
 
 ## Table of contents 
 
-[1. Project Description](https://github.com/Mike-Kulikov/sf_data_science/tree/main/HeadHunter%20Project_1#project-description)
+[1. Project Description](https://github.com/Mike-Kulikov/sf_data_science/tree/main/Project%202.%20HeadHunter%20Salary%20Prediction#project-description)
 
-[2. What case do we solve?](https://github.com/Mike-Kulikov/sf_data_science/tree/main/HeadHunter%20Project_1#what-case-do-we-solve)
+[2. What case do we solve?](https://github.com/Mike-Kulikov/sf_data_science/tree/main/Project%202.%20HeadHunter%20Salary%20Prediction#what-case-do-we-solve)
 
-[3. Data overview](https://github.com/Mike-Kulikov/sf_data_science/tree/main/HeadHunter%20Project_1#data-overview)
+[3. Data overview](https://github.com/Mike-Kulikov/sf_data_science/tree/main/Project%202.%20HeadHunter%20Salary%20Prediction#data-overview)
 
-[4. Project stages](https://github.com/Mike-Kulikov/sf_data_science/tree/main/HeadHunter%20Project_1#project-stages)
+[4. Project stages](https://github.com/Mike-Kulikov/sf_data_science/tree/main/Project%202.%20HeadHunter%20Salary%20Prediction#project-stages)
 
-[5. Results](https://github.com/Mike-Kulikov/sf_data_science/tree/main/HeadHunter%20Project_1#results)
+[5. Results](https://github.com/Mike-Kulikov/sf_data_science/tree/main/Project%202.%20HeadHunter%20Salary%20Prediction#results)
 
-[6. Outcomes](https://github.com/Mike-Kulikov/sf_data_science/tree/main/HeadHunter%20Project_1#outcomes)
+[6. Outcomes](https://github.com/Mike-Kulikov/sf_data_science/tree/main/Project%202.%20HeadHunter%20Salary%20Prediction#outcomes)
 
 
 ## Project Description

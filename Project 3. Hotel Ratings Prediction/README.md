@@ -2,17 +2,17 @@
 
 ## Table of contents 
 
-[1. Project Description](https://github.com/Mike-Kulikov/sf_data_science/blob/main/Hotel_Ratings_Prediction_Project_3/README.md)
+[1. Project Description](https://github.com/Mike-Kulikov/sf_data_science/tree/main/Project%203.%20Hotel%20Ratings%20Prediction#project-description)
 
-[2. What case do we solve?](https://github.com/Mike-Kulikov/sf_data_science/blob/main/Hotel_Ratings_Prediction_Project_3/README.md#What-case-do-we-solve?)
+[2. What case do we solve?](https://github.com/Mike-Kulikov/sf_data_science/tree/main/Project%203.%20Hotel%20Ratings%20Prediction#what-case-do-we-solve)
 
-[3. Data overview](https://github.com/Mike-Kulikov/sf_data_science/blob/main/Hotel_Ratings_Prediction_Project_3/README.md#Data-overview)
+[3. Data overview](https://github.com/Mike-Kulikov/sf_data_science/tree/main/Project%203.%20Hotel%20Ratings%20Prediction#data-overview)
 
-[4. Project stages](https://github.com/Mike-Kulikov/sf_data_science/blob/main/Hotel_Ratings_Prediction_Project_3/README.md#Project-stages)
+[4. Project stages](https://github.com/Mike-Kulikov/sf_data_science/tree/main/Project%203.%20Hotel%20Ratings%20Prediction#project-stages)
 
-[5. Results](https://github.com/Mike-Kulikov/sf_data_science/blob/main/Hotel_Ratings_Prediction_Project_3/README.md#Results)
+[5. Results](https://github.com/Mike-Kulikov/sf_data_science/tree/main/Project%203.%20Hotel%20Ratings%20Prediction#results)
 
-[6. Outcomes](https://github.com/Mike-Kulikov/sf_data_science/blob/main/Hotel_Ratings_Prediction_Project_3/README.md#Outcomes)
+[6. Outcomes](https://github.com/Mike-Kulikov/sf_data_science/tree/main/Project%203.%20Hotel%20Ratings%20Prediction#outcomes)
 
 
 ## Project Description
@@ -82,5 +82,5 @@ As a result of the project, a number of tasks were completed:
 All results are displayed in the main [file](https://github.com/Mike-Kulikov/sf_data_science/blob/main/Hotel%20Ratings%20Prediction%20Project_3/Mike%20Kulikov%20-%20SF-Project-3%20-%20Hotel%20Ratings.ipynb).
 Also, they were submitted to the Kaggle competition [here](https://www.kaggle.com/code/mikekulikov/mike-kulikov-sf-project-3-hotel-ratings)
 
-MAE: 0.8617125166427526
-MAPE: 12.295353927561749
+-  MAE: 0.8617125166427526
+- MAPE: 12.295353927561749
