@@ -1,12 +1,12 @@
 # My data science projects
 
-From the Skill Factory Data Science Course
+These projects are prepared as part of the Skill Factory Data Science Course
 
 ## The Projects
 
-* [Project 1. Guess the number. The game](https://github.com/Mike-Kulikov/sf_data_science/tree/main/project_0)
-* [Project 2. HeadHunter Salary Prediction](https://github.com/Mike-Kulikov/sf_data_science/tree/main/HeadHunter%20Project_1)
-* [Project 3. Hotel Ratings Prediction](https://github.com/Mike-Kulikov/sf_data_science/tree/main/Hotel%20Ratings%20Prediction%20Project_3)
+* [Project 1. Guess the number. The game](https://github.com/Mike-Kulikov/sf_data_science/tree/main/Project%201.%20Guess%20the%20number.%20The%20game)
+* [Project 2. HeadHunter Salary Prediction](https://github.com/Mike-Kulikov/sf_data_science/tree/main/Project%202.%20HeadHunter%20Salary%20Prediction)
+* [Project 3. Hotel Ratings Prediction](https://github.com/Mike-Kulikov/sf_data_science/tree/main/Project%203.%20Hotel%20Ratings%20Prediction)
 
 ## CV links
 
