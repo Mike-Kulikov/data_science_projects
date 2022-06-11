@@ -12,4 +12,5 @@ These projects are prepared as part of the Skill Factory Data Science Course
 ## CV links
 
 [CV](https://1drv.ms/b/s!AksytCAJZPOmiPsDld4DrOi1WXSm_A)
+
 [Kaggle](https://www.kaggle.com/mikekulikov)
