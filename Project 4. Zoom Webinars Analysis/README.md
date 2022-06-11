@@ -2,23 +2,23 @@
 
 ## Table of contents 
 
-[1. Project description](https://github.com/Mike-Kulikov/sf_data_science/tree/main/Project%203.%20Hotel%20Ratings%20Prediction#project-description)
+[1. Project description](https://github.com/Mike-Kulikov/sf_data_science/tree/main/Project%204.%20Zoom%20Webinars%20Analysis#project-description)
 
-[2. What case do we solve?](https://github.com/Mike-Kulikov/sf_data_science/tree/main/Project%203.%20Hotel%20Ratings%20Prediction#what-case-do-we-solve)
+[2. What case do we solve?](https://github.com/Mike-Kulikov/sf_data_science/tree/main/Project%204.%20Zoom%20Webinars%20Analysis#what-case-do-we-solve)
 
-[3. Data overview](https://github.com/Mike-Kulikov/sf_data_science/tree/main/Project%203.%20Hotel%20Ratings%20Prediction#data-overview)
+[3. Data overview](https://github.com/Mike-Kulikov/sf_data_science/tree/main/Project%204.%20Zoom%20Webinars%20Analysis#data-overview)
 
-[4. Project stages](https://github.com/Mike-Kulikov/sf_data_science/tree/main/Project%203.%20Hotel%20Ratings%20Prediction#project-stages)
+[4. Project stages](https://github.com/Mike-Kulikov/sf_data_science/tree/main/Project%204.%20Zoom%20Webinars%20Analysis#project-stages)
 
-[5. Results](https://github.com/Mike-Kulikov/sf_data_science/tree/main/Project%203.%20Hotel%20Ratings%20Prediction#results)
+[5. Results](https://github.com/Mike-Kulikov/sf_data_science/tree/main/Project%204.%20Zoom%20Webinars%20Analysis#results)
 
-[6. Outcomes](https://github.com/Mike-Kulikov/sf_data_science/tree/main/Project%203.%20Hotel%20Ratings%20Prediction#outcomes)
+[6. Outcomes](https://github.com/Mike-Kulikov/sf_data_science/tree/main/Project%204.%20Zoom%20Webinars%20Analysis#outcomes)
 
 
 ## Project description
 
 In April-May 2022, an Australian company held a series of Investor Club Nights - online webinars that took place on Zoom.
-The company downloaded Zoom Attendee reports and put them together in one pivot table.
+The company download Zoom Attendee reports and put them together in one pivot table.
 The task was to analyse the report and provide certain insights regarding the events registration and attendance.
 
 ## What case do we solve?
@@ -27,8 +27,7 @@ The projects' main goal is to break down an attendee report that contains inform
 
 ## Data overview
 
-The data has standart Zoom Attendee report columns:
-
+The data has standard Zoom Attendee report columns:
 - Attended
 - User Name (Original Name)
 - First Name
@@ -66,8 +65,9 @@ The project consists of the following parts:
 
 ## Results
 
-As a result of the project, I created a report with the produced praphs
+As a result of the project, the following report was created
+The code is displayed in [the following file](https://github.com/Mike-Kulikov/sf_data_science/blob/main/Project%204.%20Zoom%20Webinars%20Analysis/WI%20Club%20Night%20analytics.ipynb)
 
 ## Outcomes
 
-All results are displayed in the main [file](https://github.com/Mike-Kulikov/sf_data_science/blob/main/Project%203.%20Hotel%20Ratings%20Prediction/Mike%20Kulikov%20-%20SF-Project-3%20-%20Hotel%20Ratings.ipynb).
+The report was highly appreciated by the senior management and allowed to correct the marketing strategy and the investor relations strategy.
