@@ -65,7 +65,7 @@ The project consists of the following parts:
 
 ## Results
 
-As a result of the project, the following report was created
+As a result of the project, [the following report](https://github.com/Mike-Kulikov/sf_data_science/blob/main/Project%204.%20Zoom%20Webinars%20Analysis/WI%20Club%20Investor%20Night.pdf) was created
 The code is displayed in [the following file](https://github.com/Mike-Kulikov/sf_data_science/blob/main/Project%204.%20Zoom%20Webinars%20Analysis/WI%20Club%20Night%20analytics.ipynb)
 
 ## Outcomes
