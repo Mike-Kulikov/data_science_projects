@@ -50,7 +50,7 @@ Plus, two additional columns:
 - Event Date
 - Topic
 
-The dataset has 492 rows and 19 columns:
+The dataset has 492 rows and 19 columns
 
 ## Project stages
 
