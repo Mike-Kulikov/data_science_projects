@@ -57,3 +57,18 @@ The project consists of the following parts:
 ## Results
 
 The code is displayed in <a href="https://github.com/Mike-Kulikov/sf_data_science/blob/main/Project%205.%20Predicting%20a%20Biological%20Response/Project%205%20-%20Predicting%20a%20Biological%20Response.ipynb" target="_blank" rel="noopener">the following file</a>
+
+<b>LogisticRegression</b>
+* f1_score for the test set (default parameters) is <b>0.78</b>
+* GridSearchCV parameter optimisation - f1_score is <b>0.78</b> - the metric is not improved
+* RandomizedSearchCV parameter optimisation - f1_score is <b>0.78</b> - the metric is not improved
+* Hyperopt parameter optimisation - f1_score is <b>0.79</b> - the metric is improved
+* Optuna parameter optimisation - f1_score is <b>0.80</b> - the metric is improved
+
+
+<b>RandomForestClassifier</b>
+* f1_score for the test set (default parameters) is <b>0.80</b>
+* GridSearchCV parameter optimisation - f1_score is <b>0.80</b> - the metric is not improved
+* RandomizedSearchCV parameter optimisation - f1_score is <b>0.80</b> - the metric is not improved
+* Hyperopt parameter optimisation - f1_score is <b>0.81</b> - the metric is improved
+* Optuna parameter optimisation - f1_score is <b>0.81</b> - the metric is improved
