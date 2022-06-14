@@ -2,17 +2,15 @@
 
 ## Table of contents 
 
-[1. Project description](https://github.com/Mike-Kulikov/sf_data_science/tree/main/Project%204.%20Zoom%20Webinars%20Analysis#project-description)
+[1. Project description](https://github.com/Mike-Kulikov/sf_data_science/tree/main/Project%205.%20Predicting%20a%20Biological%20Response#project-description)
 
-[2. What case do we solve?](https://github.com/Mike-Kulikov/sf_data_science/tree/main/Project%204.%20Zoom%20Webinars%20Analysis#what-case-do-we-solve)
+[2. What case do we solve?](https://github.com/Mike-Kulikov/sf_data_science/tree/main/Project%205.%20Predicting%20a%20Biological%20Response#what-case-do-we-solve)
 
-[3. Data overview](https://github.com/Mike-Kulikov/sf_data_science/tree/main/Project%204.%20Zoom%20Webinars%20Analysis#data-overview)
+[3. Data overview](https://github.com/Mike-Kulikov/sf_data_science/tree/main/Project%205.%20Predicting%20a%20Biological%20Response#data-overview)
 
-[4. Project stages](https://github.com/Mike-Kulikov/sf_data_science/tree/main/Project%204.%20Zoom%20Webinars%20Analysis#project-stages)
+[4. Project stages](https://github.com/Mike-Kulikov/sf_data_science/tree/main/Project%205.%20Predicting%20a%20Biological%20Response#project-stages)
 
-[5. Results](https://github.com/Mike-Kulikov/sf_data_science/tree/main/Project%204.%20Zoom%20Webinars%20Analysis#results)
-
-[6. Outcomes](https://github.com/Mike-Kulikov/sf_data_science/tree/main/Project%204.%20Zoom%20Webinars%20Analysis#outcomes)
+[5. Results](https://github.com/Mike-Kulikov/sf_data_science/tree/main/Project%205.%20Predicting%20a%20Biological%20Response#results)
 
 
 ## Project description
@@ -58,4 +56,4 @@ The project consists of the following parts:
         
 ## Results
 
-The code is displayed in <a href="https://github.com/Mike-Kulikov/sf_data_science/blob/main/Project%204.%20Zoom%20Webinars%20Analysis/WI%20Club%20Night%20analytics.ipynb" target="_blank" rel="noopener">the following file</a>
+The code is displayed in <a href="https://github.com/Mike-Kulikov/sf_data_science/blob/main/Project%205.%20Predicting%20a%20Biological%20Response/Project%205%20-%20Predicting%20a%20Biological%20Response.ipynb" target="_blank" rel="noopener">the following file</a>
