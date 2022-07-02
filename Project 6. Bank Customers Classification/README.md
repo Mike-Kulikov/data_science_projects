@@ -2,15 +2,15 @@
 
 ## Table of contents 
 
-[1. Project description](https://github.com/Mike-Kulikov/sf_data_science/tree/main/Project%206.%20PBank%20a%20Customers%20Classification#project-description)
+[1. Project description](https://github.com/Mike-Kulikov/sf_data_science/tree/main/Project%206.%20Bank%20Customers%20Classification#project-description)
 
-[2. What case do we solve?](https://github.com/Mike-Kulikov/sf_data_science/tree/main/Project%206.%20PBank%20a%20Customers%20Classification#what-case-do-we-solve)
+[2. What case do we solve?](https://github.com/Mike-Kulikov/sf_data_science/tree/main/Project%206.%20Bank%20Customers%20Classification#what-case-do-we-solve)
 
-[3. Data overview](https://github.com/Mike-Kulikov/sf_data_science/tree/main/Project%206.%20PBank%20a%20Customers%20Classification#data-overview)
+[3. Data overview](https://github.com/Mike-Kulikov/sf_data_science/tree/main/Project%206.%20Bank%20Customers%20Classification#data-overview)
 
-[4. Project stages](https://github.com/Mike-Kulikov/sf_data_science/tree/main/Project%206.%20PBank%20a%20Customers%20Classification#project-stages)
+[4. Project stages](https://github.com/Mike-Kulikov/sf_data_science/tree/main/Project%206.%20Bank%20Customers%20Classification#project-stages)
 
-[5. Results](https://github.com/Mike-Kulikov/sf_data_science/tree/main/Project%206.%20PBank%20a%20Customers%20Classification#results)
+[5. Results](https://github.com/Mike-Kulikov/sf_data_science/tree/main/Project%206.%20Bank%20Customers%20Classification#results)
 
 
 ## Project description
@@ -40,11 +40,13 @@ The data has 17 values that could be grouped in several blocks:
 - housing (has a mortgage);
 - loan (has a loan);
 - balance.
+
 **Related with the last contact of the current campaign:**
 - contact (contact communication type);
 - month (last contact month of year);
 - day (last contact day of the week);
 - duration (last contact duration, in seconds).
+
 **Other attributes**
 - campaign (number of contacts performed during this campaign and for this client);
 - pdays (number of days that passed by after the client was last contacted from a previous campaign);
