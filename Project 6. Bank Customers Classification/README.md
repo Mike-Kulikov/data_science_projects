@@ -1,4 +1,4 @@
-# Predicting a Biological Response #
+# Classification of bank customers #
 
 ## Table of contents 
 
@@ -69,6 +69,8 @@ We build the first predictive model and evaluate its quality. We select the opti
 We improve the first prediction using more complex algorithms and evaluate which model can be used to make better predictions.
         
 ## Results
+
+The code is displayed in <a href="https://github.com/Mike-Kulikov/sf_data_science/blob/main/Project%206.%20Bank%20Customers%20Classification/Project%206.%20Bank%20Customers%20Classification.ipynb" target="_blank" rel="noopener">the following file</a>
 
 We built several ML models:
 - Logistic Regression
