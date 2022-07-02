@@ -29,7 +29,7 @@ If we can do this, we will raise the bank's income and help it understand the ta
 
 ## Data overview
 
-The data has 17 values that could be grouped in several blocks:
+The dataset has 17 values that could be grouped in several blocks:
 
 **Bank customer data:**
 - age;
