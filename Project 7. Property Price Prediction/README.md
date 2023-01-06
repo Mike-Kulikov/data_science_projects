@@ -2,15 +2,15 @@
 
 ## Table of contents 
 
-[1. Project description](https://github.com/Mike-Kulikov/sf_data_science/tree/main/Project%205.%20Predicting%20a%20Biological%20Response#project-description)
+[1. Project description](https://github.com/Mike-Kulikov/data_science_projects/tree/main/Project%207.%20Property%20Price%20Prediction#project-description)
 
-[2. What case do we solve?](https://github.com/Mike-Kulikov/sf_data_science/tree/main/Project%205.%20Predicting%20a%20Biological%20Response#what-case-do-we-solve)
+[2. What case do we solve?](https://github.com/Mike-Kulikov/data_science_projects/tree/main/Project%207.%20Property%20Price%20Prediction#what-case-do-we-solve)
 
-[3. Data overview](https://github.com/Mike-Kulikov/sf_data_science/tree/main/Project%205.%20Predicting%20a%20Biological%20Response#data-overview)
+[3. Data overview](https://github.com/Mike-Kulikov/data_science_projects/tree/main/Project%207.%20Property%20Price%20Prediction#data-overview)
 
-[4. Project stages](https://github.com/Mike-Kulikov/sf_data_science/tree/main/Project%205.%20Predicting%20a%20Biological%20Response#project-stages)
+[4. Project stages](https://github.com/Mike-Kulikov/data_science_projects/tree/main/Project%207.%20Property%20Price%20Prediction#project-stages)
 
-[5. Results](https://github.com/Mike-Kulikov/sf_data_science/tree/main/Project%205.%20Predicting%20a%20Biological%20Response#results)
+[5. Results](https://github.com/Mike-Kulikov/data_science_projects/tree/main/Project%207.%20Property%20Price%20Prediction#results)
 
 
 ## Project description
@@ -108,7 +108,7 @@ The project consists of the following parts:
         
 ## Results
 
-The code is displayed in <a href="https://github.com/Mike-Kulikov/sf_data_science/blob/main/Project%205.%20Predicting%20a%20Biological%20Response/Project%205%20-%20Predicting%20a%20Biological%20Response.ipynb" target="_blank" rel="noopener">the following file</a>
+The code is displayed in <a href="https://github.com/Mike-Kulikov/data_science_projects/blob/main/Project%207.%20Property%20Price%20Prediction/Property%20Price%20Prediction%20-%20Final%20Project%20-%20Mike%20Kulikov.ipynb" target="_blank" rel="noopener">the following file</a>
 
 1. The best results are shown by the **Random Forest Regressor** model. The Mean Absolute Error became **$59,434.88**, which is quite a lot. The Mean Absolute Percent Error is **15.47%**. The R^2 score (coefficient of determination) shows a relatively good **0.85** (on a scale from -1 to 1).
 
