@@ -15,6 +15,14 @@
 
 ## Project description
 
+We are given with a dataset representing properties listed in the US. The project objectives are:
+
+- Clean the dataset
+- Oplimise the features for the neads of the project
+- Create a number of machine-learning models to predict price using the given features
+
+## What case do we solve?
+
 A representative of a large real-estate agency has approached us with the following problem:
 
 <i>“My realtors spend a disastrous amount of time sorting listings and looking for great deals. Therefore, their reaction speed, and, frankly speaking, the quality of the analysis does not reach the level of our competitors. This affects our financial performance.
@@ -22,14 +30,6 @@ A representative of a large real-estate agency has approached us with the follow
 Your task is to develop a model that would allow us to beat competitors in terms of the speed and quality of transactions."</i>
 
 The objective of the project is to develop a service for predicting the cost of properties based on the history of offers.
-
-## What case do we solve?
-
-We are given with a dataset representing properties listed in the US. The objectives are:
-
-- Clean the dataset
-- Oplimise the features for the neads of the project
-- Create a number of machine-learning models to predict price using the given features
 
 ## Data overview
 
