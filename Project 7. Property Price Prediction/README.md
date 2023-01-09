@@ -64,7 +64,7 @@ The project consists of the following parts:
 - 1) Project Overview
 - 2) Explonatory Data Analysis - Part 1
     * Data Overview
-- 3) Feature Engeneering
+- 3) Data Preprocessing
     * target
     * status
     * private pool & PrivatePool
@@ -87,16 +87,17 @@ The project consists of the following parts:
     * stories
     * year built
     * price/sq.ft. & lot_size & sqft
-- 4) Baseline
-    * Prepare the data
-    * Evaluation metrics
-    * Linear Regression
-- 5) Explonatory Data Analysis - Part 2
+- 4) Explonatory Data Analysis - Part 2
     * Categorical features
+- 5) Feature Engeneering
     * Removing outliers
     * Correlation heat map
     * Encoding categorical features
+    * Reducing the number of features
+    * Normalisation
 - 6) Modeling
+    * Evaluation metrics
+    * Baseline
     * Linear Regression
     * Light Gradient Boosted Machine Regressor
     * Gradient Boosting
